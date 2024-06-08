@@ -1,0 +1,281 @@
+/*
+This to help to design the button that
+are under a persons container
+*/
+
+#btn-cont-per1{
+     position: relative;
+     background: white;
+    }
+    #btn-cont-per1 #callbtn1 {
+     background: #222;
+     position: absolute;
+     right: 0;
+     border: 0px solid white;
+     outline: none;
+    }#callbtn1 svg{
+     font-size: 25px;
+    }
+    
+    #btn-cont-per1 #msgbtn1 {
+    background: #222;
+    position: absolute;
+    left: 270;
+    border: 0px solid white;
+    outline: none;
+    }#msgbtn1 svg{
+    font-size: 25px;
+    }
+    
+    #btn-cont-per1 #emailbtn1 {
+    background: #222;
+    position: absolute;
+    left: 230;
+    border: 0px solid white;
+    outline: none;
+    }#emailbtn1 svg{
+    font-size: 25px;
+    }
+    
+    #btn-cont-per1 #download1 {
+    background: #222;
+    position: absolute;
+    left: 190;
+    border: 0px solid white;
+    outline: none;
+    }#download1 svg{
+    font-size: 25px;
+    }
+
+#btn-cont-per2{
+      position: relative;
+      background: ;
+      }
+      #btn-cont-per2 #callbtn1 {
+      background: #222;
+      position: absolute;
+      left: 0;
+      border: 0px solid white;
+      outline: none;
+      }#callbtn2 svg{
+      font-size: 25px;
+      }
+      
+      #btn-cont-per2 #msgbtn2 {
+      background: #222;
+      position: absolute;
+      left: 40;
+      border: 0px solid white;
+      outline: none;
+      }#msgbtn2 svg{
+      font-size: 25px;
+      }
+      
+      #btn-cont-per2 #emailbtn2 {
+      background: #222;
+      position: absolute;
+      left: 80;
+      border: 0px solid white;
+      outline: none;
+      }#emailbtn2 svg{
+      font-size: 25px;
+      }
+      
+#btn-cont-per3{
+      position: relative;
+      background: ;
+      }
+      #btn-cont-per3 #callbtn1 {
+      background: #222;
+      position: absolute;
+      left: 0;
+      border: 0px solid white;
+      outline: none;
+      }#callbtn3 svg{
+      font-size: 25px;
+      }
+      
+      #btn-cont-per3 #msgbtn3 {
+      background: #222;
+      position: absolute;
+      left: 40;
+      border: 0px solid white;
+      outline: none;
+      }#msgbtn3 svg{
+      font-size: 25px;
+      }
+      
+      #btn-cont-per3 #emailbtn3 {
+      background: #222;
+      position: absolute;
+      left: 80;
+      border: 0px solid white;
+      outline: none;
+      }#emailbtn3 svg{
+      font-size: 25px;
+      }
+
+#btn-cont-per4{
+      position: relative;
+      background: ;
+      }
+      #btn-cont-per4 #callbtn4 {
+      background: #222;
+      position: absolute;
+      left: 0;
+      border: 0px solid white;
+      outline: none;
+      }#callbtn4 svg{
+      font-size: 25px;
+      }
+      
+      #btn-cont-per4 #msgbtn4 {
+      background: #222;
+      position: absolute;
+      left: 40;
+      border: 0px solid white;
+      outline: none;
+      }#msgbtn4 svg{
+      font-size: 25px;
+      }
+      
+      #btn-cont-per4 #emailbtn4 {
+      background: #222;
+      position: absolute;
+      left: 80;
+      border: 0px solid white;
+      outline: none;
+      }#emailbtn4 svg{
+      font-size: 25px;
+      }
+      
+ 
+#btn-cont-per5{
+      position: relative;
+      background: ;
+      }
+      #btn-cont-per5 #callbtn5 {
+      background: #222;
+      position: absolute;
+      left: 0;
+      border: 0px solid white;
+      outline: none;
+      }#callbtn5 svg{
+      font-size: 25px;
+      }
+      
+      #btn-cont-per5 #msgbtn5 {
+      background: #222;
+      position: absolute;
+      left: 40;
+      border: 0px solid white;
+      outline: none;
+      }#msgbtn5 svg{
+      font-size: 25px;
+      }
+      
+      #btn-cont-per5 #emailbtn5 {
+      background: #222;
+      position: absolute;
+      left: 80;
+      border: 0px solid white;
+      outline: none;
+      }#emailbtn5 svg{
+      font-size: 25px;
+      }
+      
+      
+      
+#btn-cont-per6{
+      position: relative;
+      background: ;
+      }
+      #btn-cont-per6 #callbtn6 {
+      background: #222;
+      position: absolute;
+      left: 0;
+      border: 0px solid white;
+      outline: none;
+      }#callbtn6 svg{
+      font-size: 25px;
+      }
+      
+      #btn-cont-per6 #msgbtn6 {
+      background: #222;
+      position: absolute;
+      left: 40;
+      border: 0px solid white;
+      outline: none;
+      }#msgbtn6 svg{
+      font-size: 25px;
+      }
+      
+      #btn-cont-per6 #emailbtn6 {
+      background: #222;
+      position: absolute;
+      left: 80;
+      border: 0px solid white;
+      outline: none;
+      }#emailbtn6 svg{
+      font-size: 25px;
+      }
+      
+
+#btn-cont-per7{
+      position: relative;
+      background: ;
+      }
+      #btn-cont-per7 #callbtn7 {
+      background: #222;
+      position: absolute;
+      left: 0;
+      border: 0px solid white;
+      outline: none;
+      }#callbtn7 svg{
+      font-size: 25px;
+      }
+      
+      #btn-cont-per7 #msgbtn7 {
+      background: #222;
+      position: absolute;
+      left: 40;
+      border: 0px solid white;
+      outline: none;
+      }#msgbtn7 svg{
+      font-size: 25px;
+      }
+      
+      #btn-cont-per7 #emailbtn7 {
+      background: #222;
+      position: absolute;
+      left: 80;
+      border: 0px solid white;
+      outline: none;
+      }#emailbtn7 svg{
+      font-size: 25px;
+      }
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+#btn-cont-per2{
+      position: relative;
+      background: ;
+      }
+      #openbtn {
+      background: ;
+      position: absolute;
+      right: 40;
+      top: 0;
+      border: 0px solid white;
+      outline: none;
+      }#openbtn svg{
+      font-size: 25px;
+      }

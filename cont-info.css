@@ -1,0 +1,36 @@
+/*
+This will help to give the cancel
+buttons design, in the content-1 and
+content-2 container, these container 
+have cancel button, so this CSS will
+help to design them and make them look
+good.
+*/
+
+/*FOR THE FIRST CONTAINER START*/
+#cancel1{
+   position: absolute;
+   top: 5;
+   right: 5;
+   width: px;
+   background: #666;
+   border: 0px solid gray;
+   outline: none;
+   }#cancel1 svg{
+   font-size: 25px;
+   }
+/*FOR THE FIRST CONTAINER END*/
+   
+/*FOR THE SECOND CONTAINER START*/
+#cancel2{
+      position: absolute;
+      top: 5;
+      right: 5;
+      width: px;
+      background: #666;
+      border: 0px solid gray;
+      outline: none;
+    }#cancel2 svg{
+     font-size: 25px;
+    }
+/*FOR THE SECOND CONTAINER END*/

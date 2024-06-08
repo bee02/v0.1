@@ -1,0 +1,312 @@
+body{
+  padding: 0px;
+  margin: 0px;
+  background: #222;
+  font-family:sans-serif;
+ }
+ 
+ .head1{
+ background: #222;
+ padding: px;
+ position: relative;
+ border-bottom: 0px solid white;
+ max-width: 350px;
+ margin: 0 auto;
+ height: px;
+ }
+ 
+ .title-bar{
+ background: #222;
+ width: 65%;
+ max-width: 200px;
+ padding: 10px;
+ }.title-bar #ani{
+ font-size: 20px;
+ animation: ani 2s linear infinite;
+ outline: none;
+ font-size: 30px;
+ border-radius: 10px;
+ }@keyframes ani{
+ 0%{
+ border: px solid rgb(255,5,5);
+ color: red;
+ }
+ 33.3%{
+ border: px solid #66ccff;
+ color: #66ccff;
+ }
+ 66.6%{
+ border: px solid #ff66cc;;
+ color: #ff66cc;
+ }
+ 100%{
+ border: px solid red;
+ color: red;
+ }
+ }
+ 
+ .navigator{
+ position: absolute;
+ top: 10;
+ right: 0;
+ margin: 0;padding: 0;
+ }.navigator svg{
+ color: white;
+ font-size: 30px;
+ padding: 0;margin: 0;
+ border: 1px solid white;
+ border-radius: 5px;
+ }.navigator #two{
+ display: none;
+ }
+ 
+ 
+ 
+ /*****MENU bar arrangement****/ 
+ #one{
+ position: absolute;
+ top: 10;right: 20;
+ }
+ #two{
+ position: absolute;
+ top: 10;right: 20;
+ }
+ #three{
+ position: absolute;
+ top: 10;right: 20;
+ } 
+ 
+ 
+ 
+ 
+ #navigate-openner{
+ margin: 0 auto;
+ max-width: 350px;
+ padding: 0px;
+ position: relative;
+ /**border-bottom: 1px solid white;**/
+ 
+ }#navigate-openner {
+ margin: 0px;
+ padding: 0px;
+ }
+ #navigate-openner
+ #home-svg,
+ #about-svg,
+ #contact-svg,
+ #upload-svg,
+ #settings-svg{
+ display: none;
+ margin: 0px;
+ padding: 0px;
+ }
+ 
+ 
+ 
+ .search-engin{
+ position: relative;
+ width: 90%;
+ max-width: 400px;
+ 
+ 
+ }.search-engin input{
+ width: 100%;
+ height: 40px;
+ outline: none;
+ border-radius: ;
+ }.search-engin button{
+ position: absolute;
+ right: 1;
+ top: 5;
+ background: white;
+ border: 0px solid white;
+ height: 30px;
+ outline: ;
+ }.search-engin svg{
+ font-size: 20px
+ }
+ 
+ 
+ /*********OTHER HEAD********/
+ /*********OTHER HEAD********/
+ /*********OTHER HEAD********/
+ /*********OTHER HEAD********/
+ /*********OTHER HEAD********/
+ /*********OTHER HEAD********/
+ /*********OTHER HEAD********/
+ /*********OTHER HEAD********/
+ /*********OTHER HEAD********/
+ /*********OTHER HEAD********/
+ /*********OTHER HEAD********/
+ /*********OTHER HEAD********/
+ /*********OTHER HEAD********/
+ 
+ 
+ 
+ 
+ 
+ .head{
+ max-width: 350px;
+ margin: 0 auto;
+ position: ;
+ }
+ .main{
+ display: flex;
+ margin: auto;
+ align-items: center;
+ justify-content: center;
+ background: #444;
+ border-radius: 10px;
+ }.main a{
+ text-decoration: none;
+ }.main svg{
+ font-size: 30px;
+ padding: 10px;
+ }
+ 
+ .container{
+ max-width: 350px;
+ margin: 0 auto;
+ position: relative;
+ }
+ 
+ 
+ 
+/*MAKING A LOADING CONTAINER*/
+#one1{
+   animation: one 2s linear infinite;
+   border-radius: 10px;
+   display: inline;
+  }
+  @keyframes one{
+   33.3%{
+   border: 2px solid rgb(255,0,0);
+   font-size: 40%;
+   }
+  }
+#two2{
+ animation: two2 2s linear infinite;
+ border-radius: 10px;
+ }
+ @keyframes two2{
+ 44.4%{
+ border: 2px solid #66CCFF;
+ font-size: 50%;
+ }
+}
+#three{
+ animation: thre 2s linear infinite;
+ border-radius: 10px;
+ }
+ @keyframes three{
+ 55.5%{
+ border: 2px solid #CC66FF;
+ font-size: 60%;
+ }
+ }
+#four{
+ animation: four 2s linear infinite;
+ border-radius: 10px;
+ }
+ @keyframes four{
+ 66.6%{
+ border: 2px solid chocolate;
+ font-size: 70%;
+ }
+}
+#five{
+ animation: five 2s linear infinite;
+ border-radius: 10px;
+ }
+ @keyframes five{
+ 77.7%{
+ border: 2px solid yellow;
+ font-size: 80%;
+ }
+ }
+#six{
+ animation: six 2s linear infinite;
+ border-radius: 10px;
+ }
+ @keyframes six{
+ 88.8%{
+ border: 2px solid green;
+ font-size: 90%;
+ }
+ }
+#seven{
+ animation: seven 2s linear infinite;
+ border-radius: 10px;
+ }
+ @keyframes seven{
+ 99.9%{
+ border: 2px solid orange;
+ font-size: 100%;
+ }
+ }
+#eight{
+ animation: eight 2s linear infinite;
+ border-radius: 10px;
+ }
+ @keyframes eight{
+ 100%{
+ border: 2px solid red;
+ font-size: 150%;
+ }
+ }
+/*MAKING A LOADING CONTAINER*/
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+.load{
+ text-align: center;
+ background: black;
+ height: 100px;
+ padding: 10px;
+ border-radius: 10px;
+ border: 1px solid white;
+}
+
+.notice{
+   background: #333;
+   padding: 0px;
+   border-radius: 10px;
+   border: 1px solid white;
+  }
+  .notice h4{
+   color: white;
+   margin: 0px;
+  }
+  .notice p{
+   padding: 5px;
+   color: gray;
+   font-size: 10px;
+  }
+  
